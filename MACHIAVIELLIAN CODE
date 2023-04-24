@@ -1,0 +1,74 @@
+print("Vending Machine 3 Postmen Story")
+print("=== DRAFT ONLY - By Silon Pordoulos: A HORROR SCIence FICTION.===")
+print("=== Told by Inspector.===")
+print("""THIS DESCRIPTION ABOVE TELLS ALL. Clues Only. Don't - Five Nights at Freddy.""")
+
+thingV = input("Most liked everyday item: ")
+physioV = input("Most hated bodily function: ")
+stakeV = input("Who do you loathe the most?: ")
+
+steakV = input("What will you always be honest about?: ")
+RandomNames = input("Random names top of mind?: ")
+playGround = input("where is the last place to find you?: ")
+
+print()
+print("There was a person called", RandomNames, "at the wonderful playground called", playGround, "where you could never find Me.")
+
+print()
+print("Along the lines of these following words, the fox made a sound finally. In a decade's thinking, without any clue - it screamed Song: How it's gonna be? - Third Eye Blind.")
+
+print()
+print("And then comes the teapot calling kettle BLACK.")
+
+print()
+print("...")
+
+print()
+print(" The fox asked the kettle, 'Excuse me, 'Ayyy what's up!' Could you make me a few cups of tea, please? ")
+
+print()
+print(" The pot was startled. It became WHITE in the face.")
+
+print()
+print(" 'TERRY!', screamed the dustpan of the BROOM.")
+
+print()
+print("Suddenly, the WHITE BIRD comes swooping in. BUTT-FIRST on the window. And she saw, in a MIRROR, a MIRROR, in a mirror in a mirror in a mirror in a mirror in a mirror in a mirror, in a mirror, in a mirror, in a mirror, in a mirror, it goes endless... There stood Balthazar, thinking - pacing back and forth at the dresser table.")
+
+print()
+print("When the time appointed comes, a timmer timer will give a hoot and the variable Like, ", steakV," makes for a good entrance, ' says Fox.")
+
+print()
+print("It is a Red Fox like in Pinocchio.")
+
+print()
+print("Stromboli appears.")
+
+print()
+print("Kettle and pot both hastily knock the door.")
+
+print()
+print("Aku nak tanya kau ni, kau dah kenapa Kettle?, asked the Pot.") 
+
+print()
+print("Note: Pot is a Pothead too. ")
+
+print()
+print("Kettle answered, 'What you want?'")
+
+print()
+print("Way before that, a Flashback occured in Kettle's head.")
+
+print()
+print("... said, the Narrator, about the Flashback in Kettle's head.")
+
+print()
+print("The pot asked again, 'Hey Kettle. HEY KETTLE, LISTEN! What is the thing you most hated in your Life before you crossed over?' ")
+
+print()
+print("When time comes, said the Pot ", stakeV, "... appears.")
+
+print()
+
+print("The make of the chassis, is a problem.")
+print("Hint: Narrotor said it.")
